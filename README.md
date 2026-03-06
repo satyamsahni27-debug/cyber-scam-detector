@@ -1,1 +1,0 @@
-# cyber-scam-detector
