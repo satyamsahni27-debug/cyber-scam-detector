@@ -27,6 +27,7 @@ This project analyzes links and messages to identify possible **phishing or scam
 
 Clone the repository
 git clone https://github.com/satyamsahni27-debug/cyber-scam-detector
+
 Go to the project folder
 
 cd cyber-scam-detector
